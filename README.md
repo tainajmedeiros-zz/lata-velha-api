@@ -78,7 +78,11 @@ Follows instructions for running the API.
    ```sh
    localhost:8080/swagger-uui.html
    ```
-
+5. Deploy in Heroku
+   ```sh
+   https://lata-velha-api.herokuapp.com/swagger-uui.html
+   ```
+   
 <!-- USAGE EXAMPLES -->
 ## Usage
 
